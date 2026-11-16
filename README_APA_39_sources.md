@@ -72,7 +72,7 @@ Szulcsányi, V., & Magyar, S. (2026). A comparative analysis of threat models in
 
 Tennant, D. L., Nolan, L., & House, D. (2024). Cyber red lines: Government responses to cyberattacks on critical infrastructure. *Æther: A Journal of Strategic Airpower & Spacepower, 3*(2), 59–71. https://digitalcommons.unomaha.edu/isqafacpub/162
 
-Teuwen, K. T. W. (2024). A modular approach to automatic cyber threat attribution using opinion pools. In *2023 IEEE International Conference on Big Data (BigData)* (pp. 3089–3098). IEEE. https://arxiv.org/abs/2401.14090
+Teuwen, K. T. W. (2024). A modular approach to automatic cyber threat attribution using opinion pools. In *2023 IEEE International Conference on Big Data (BigData)* (pp. 3089–3098). IEEE. https://koen.teuwen.net/publication/a-modular-approach-to-automatic-cyber-threat-attribution-using-opinion-pools
 
 U.S. Air Force. (n.d.). *Cyberspace operations* (Air Force Doctrine Publication 3-12). https://www.doctrine.af.mil/Doctrine-Publications/AFDP-3-12-Cyberspace-Ops/
 
