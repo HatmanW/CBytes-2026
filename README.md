@@ -1,5 +1,6 @@
 # CBytes-2026
-[View Document] (https://github.com/HatmanW/CBytes-2026/blob/e66d36a8b6630bec62ab6b27674919a112614cce/CBYTES_2026_Cyber_Attribution_Poster_v7.pdf)
+
+![C-BYTES 2026 Research Poster](./CBYTES_2026_Poster.png)
 
 References:
 
