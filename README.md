@@ -2,8 +2,9 @@
 
 ![C-BYTES 2026 Research Poster](./CBYTES_2026_Poster.png)
 
-Pitch
-'When a cyberattack occurs, how certain do we need to be about who did it? And when is that certainty enough to act?
+Initial Pitch:
+
+"When a cyberattack occurs, how certain do we need to be about who did it? And when is that certainty enough to act?
 
 Through an integrative literature review, I found that a security operations center and a government responding to a nation-state attack may need very different levels of attribution.
 
@@ -13,7 +14,9 @@ Even knowing exactly who attacked you doesn't necessarily tell you what to do ne
 
 Moving forward, I want to explore how we can bring these frameworks together and better understand when further investigation is worth the time and resources.
 
-The goal of this research is to help decision-makers understand when they have enough information to act, even when complete certainty isn't possible.'
+The goal of this research is to help decision-makers understand when they have enough information to act, even when complete certainty isn't possible."
+
+The pitch is expected to change over time as we continually talk about the subject. 
 
 References:
 
